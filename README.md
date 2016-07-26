@@ -7,7 +7,7 @@ I've worked for many years in the Business Process Management space, where you c
 
 Inspired by the usefulness of executable BPMN tools, I am longing for something similar that can be used to describe what the user experience should be for a particular "view" that is used to interact with an underlying application.
 
-Clients often want a view to behave in a very specific way - but I have not yet found a tool that is really suited for their use. This project holds my effort to create such a tool.
+Clients often want a view to behave in a very specific way - but I have not yet found a tool that is really suited for their use. Many tools let business people design what a screen should look like, and many tools let programmers quickly prototype user interfaces, but there's a gap in the middle. Beyond what the screens should look like, the business people should be able to describe the behavior of the screens in a manner that can be validated and tested against. This project holds my effort to create such a tool.
 
 For example, clients often specify views that will show additional information as their customers input information. For example, once a plan is selected, the options that are available for that plan, and for which the customer is eligible, should be displayed.
 
