@@ -3,7 +3,7 @@ Experiments in describing the behavior of views.
 
 When working with clients, it's imperative that you have good mechanisms for capturing and validating requirements. The sooner you discover a discrepancy between what the client thinks they asked for and your understanding of what you think they asked for, the less code you'll have to throw away.
 
-I've worked for many years in the Business Process Management space, where you can use the [BPMN](http://www.bpmn.org/ "BPMN") modeling language to capture and validate requirements. Tools are available for simply "drawing" BPMN diagrams, but much more useful are tools that allow the client to actually execute the BPMN and "step through" their business process definitions and insure that all of the business logic is correct. "Stepping through the process" is extremely effective in uncovering mistakes and misunderstandings.
+I've worked for many years in the Business Process Management space, where you can use the [BPMN](http://www.bpmn.org/ "BPMN") modeling language to capture and validate requirements. Tools are available for simply "drawing" BPMN diagrams, but much more useful are tools that allow the client to actually [execute the BPMN](https://www.blueworkslive.com/home/ "Blueworks Live") and "step through" their business process definitions and insure that all of the business logic is correct. "Stepping through the process" is extremely effective in uncovering mistakes and misunderstandings.
 
 Inspired by the usefulness of executable BPMN tools, I am longing for something similar that can be used to describe what the user experience should be for a particular "view" that is used to interact with an underlying application.
 
